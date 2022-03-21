@@ -1,6 +1,6 @@
 title: moramoko
 author: Nicolas Schmitt
-url: # root address of the site
+url: / # root address of the site
 description: Best things take time.
 
 permalink: /:slug
